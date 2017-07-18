@@ -1,16 +1,4 @@
-ngVideo
-===================
 
-![Travis](http://img.shields.io/travis/Wildhoney/ngVideo.svg?style=flat)
-&nbsp;
-![npm](http://img.shields.io/npm/v/ng-video.svg?style=flat)
-&nbsp;
-![License MIT](http://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)
-
-* **Heroku**: [http://ng-video.herokuapp.com/](http://ng-video.herokuapp.com/)
-* **Bower:** `bower install ngvideo`
-
----
 
 `ngVideo` is a [HTML5 video player](http://www.html5rocks.com/en/tutorials/video/basics/) written in [Angular.js](https://angularjs.org/).
 
@@ -331,13 +319,4 @@ Once you've issued the `grunt custom` command your custom builds &ndash; develop
 
 ---
 
-Contributing
--------------------
 
-![Karma.js](http://karma-runner.github.io/assets/img/banner.png)
-
-`ngVideo` uses Jasmine with the Karma runner. All contributions to `ngVideo` are welcome!
-
-Please add a unit-test for your addition &ndash; or removal, and then run all of the tests using `karma start KarmaUnit.js`, or with Grunt: `grunt test`.
-
-Once you've committed your changes to your branch and all tests are passing, please open a [pull request](https://github.com/Wildhoney/ngVideo/pulls) for review.
